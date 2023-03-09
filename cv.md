@@ -17,7 +17,7 @@ I am a web developer. At the moment I am strengthening my knowledge,
 learning new technologies and looking job. I graduated from the
 Moscow Power Engineering Institute and worked as a design engineer for a
 long time. Since childhood, I liked use computer for every day
-(mostly playing games, of course), and I also studed different programs,
+(mostly playing games, of course), and I also studied different programs,
 and maked first steps to development (Fortran, Pascal). Finally,
 I decided to change profession. In addition, working as a
 web developer goes well with my passion for traveling (I am visited lot countries
@@ -87,8 +87,8 @@ function domainName(url) {
  - ###English.  
    *Level \- A2/B1 Pre-Intermediate*   
    I have experience to speak with people in my travel's trips. Half year 
-   long i visited English-speaking club, where we discussed movies, 
-   hobbies, dish recipes, trips. When i worked as design-engineer, 
-   I translated a lot technical documentations.
+   long I visited English-speaking club, where we discussed movies, 
+   hobbies, dish recipes, trips. When I worked as design-engineer, 
+   I translated a lot of technical documentations.
 - ###Russian.  
   *Native*.
