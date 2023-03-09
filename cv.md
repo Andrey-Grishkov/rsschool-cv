@@ -80,3 +80,15 @@ function domainName(url) {
   - [Postcard](https://github.com/Andrey-Grishkov/postcard-eight-march-for-mom)
     \- Web-site like a postcard where have photo album for my Mom
     (Stack: *HTML, CSS, React*)
+---
+
+##Languages:
+
+ - ###English.  
+   *Level \- A2/B1 Pre-Intermediate*   
+   I have experience to speak with people in my travel's trips. Half year 
+   long i visited English-speaking club, where we discussed movies, 
+   hobbies, dish recipes, trips. When i worked as design-engineer, 
+   I translated a lot technical documentations.
+- ###Russian.  
+  *Native*.
