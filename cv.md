@@ -1,8 +1,8 @@
-#Andrey Grishkov
+# Andrey Grishkov
 
 ---
 
-##My Contacts:
+## My Contacts:
 
 - **E-mail:** [andreygorm@gmail.com](andreygorm@gmail.com)
 - **Telegram:** [Andreygorm](https://t.me/Andreygorm)
@@ -11,7 +11,7 @@
 
 ---
 
-##About Me:
+## About Me:
 
 I am a web developer. At the moment I am strengthening my knowledge,
 learning new technologies and looking job. I graduated from the
@@ -32,14 +32,14 @@ specialists (backend development, testers, product managers, designers).
 
 ---
 
-##Technology stack:
+## Technology stack:
 
 *HTML, CSS, Sass, JavaScript, Git, BEM, Figma, Webpack, React, Redux, 
 TypeScript, Node.js, Postman, MongoDB, Express*
 
 ---
 
-##Code Example:
+## Code Example:
 
 - Example how extract the domain name from a URL with use regular expressions
 
@@ -55,7 +55,7 @@ function domainName(url) {
 
 ---
 
-##Education and experience:
+## Education and experience:
 
 - Course web-development from Yandex Practicum (January - December 2022)
   - [Movies-explorer](https://github.com/Andrey-Grishkov/movies-explorer-frontend)
@@ -82,13 +82,13 @@ function domainName(url) {
     (Stack: *HTML, CSS, React*)
 ---
 
-##Languages:
+## Languages:
 
- - ###English.  
+ - ### English.  
    *Level \- A2/B1 Pre-Intermediate*   
    I have experience to speak with people in my travel's trips. Half year 
    long I visited English-speaking club, where we discussed movies, 
    hobbies, dish recipes, trips. When I worked as design-engineer, 
    I translated a lot of technical documentations.
-- ###Russian.  
+- ### Russian.  
   *Native*.
