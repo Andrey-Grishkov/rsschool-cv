@@ -32,3 +32,23 @@ specialists (backend development, testers, product managers, designers).
 
 ---
 
+##Technology stack:
+
+*HTML, CSS, Sass, JavaScript, Git, BEM, Figma, Webpack, React, Redux, 
+TypeScript, Node.js, Postman, MongoDB, Express*
+
+---
+
+##Code Example:
+
+- Example how extract the domain name from a URL with use regular expressions
+
+```
+function domainName(url) {
+  const regexFirstPart=/^(https*:\/\/)*(w{3}\.)*/gmi;
+  const regexLastPart=/(\.([\w]{2,}))+(\/[\w-]*\.*[\w-]*)*$/gmi;
+  const urlWithoutFirstPart=url.replace(regexFirstPart,'');
+  const urlDomain=urlWithoutFirstPart.replace(regexLastPart,'');
+  return urlDomain
+}
+```
